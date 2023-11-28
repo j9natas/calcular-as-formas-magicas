@@ -1,0 +1,1 @@
+# calcular-as-formas-magicas
